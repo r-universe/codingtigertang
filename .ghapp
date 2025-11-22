@@ -1,10 +1,9 @@
 {
   "id": 95891461,
   "created_at": "2025-11-21T16:53:26.000Z",
-  "repository_selection": "selected",
+  "repository_selection": "all",
   "permissions": {
     "metadata": "read",
     "statuses": "write"
-  },
-  "repositories": ["sparkler"]
+  }
 }
