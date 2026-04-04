@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/codingtigertang/codingtigertang.r-universe.dev
 	branch = HEAD
+[submodule "deckroadmap"]
+	path = deckroadmap
+	url = https://github.com/CodingTigerTang/deckroadmap
 [submodule "sparkler"]
 	path = sparkler
 	url = https://github.com/CodingTigerTang/sparkler
